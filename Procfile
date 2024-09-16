@@ -1,1 +1,1 @@
-web: mvn spring-boot:run
+web: ./gradlew bootRun
